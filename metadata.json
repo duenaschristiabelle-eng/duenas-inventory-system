@@ -1,0 +1,6 @@
+{
+  "name": "Dueñas Store - Inventory Management",
+  "description": "Clean, mobile-friendly web inventory management system for Dueñas Store with stock-in/stock-out recording, low-stock and expiration alerts, and summary reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
