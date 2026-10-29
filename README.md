@@ -1,7 +1,7 @@
 # Development of an Integrated Warehouse and Inventory Management System for Dueñas Stores
 
 ## Project Overview
-**Dueñas Inventory Pro** is a web-based inventory management system designed specifically for Dueñas Store to replace manual paper-based record-keeping. Built using HTML, CSS, JavaScript, and IndexedDB (browser-based local database), it works offline and stores all data securely in the user's browser. No complex server setup required — simple, affordable, and effective for small retail operations.
+**Dueñas Inventory** is a web-based inventory management system designed specifically for Dueñas Store to replace manual paper-based record-keeping. Built using HTML, CSS, JavaScript, and IndexedDB (browser-based local database), it works offline and stores all data securely in the user's browser. No complex server setup required — simple, affordable, and effective for small retail operations.
 
 ## Problem Statement
 Dueñas Store previously relied on manual inventory management — handwritten logs and physical record books. This approach is time-consuming, prone to counting errors, makes it difficult to track stock movement accurately, identify low-stock items before they run out, and retrieve historical transaction records quickly when needed.
